@@ -2,7 +2,7 @@
   "name": "mkdir",
   "description": "Directory creation utilities",
   "version": "0.0.1",
-  "url": "http://github.com/joehewitt/mkdir",
+  "homepage": "http://github.com/joehewitt/mkdir",
   "repository": {
       "type": "git",
       "url" : "http://github.com/joehewitt/mkdir.git"
